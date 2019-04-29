@@ -11,11 +11,11 @@ long long solution(int n) {
 	v[0] = 0;
 	v[1] = 1;
 	for (long long i = 2; i <= n; i++) {
-		v[i] = v[i - 2] + v[i - 1];
+		v[i] = v[i - 2]%a + v[i - 1]%a;
 	}
-	answer = (v[n] % a);
 
-	return answer;
+
+	return v[n]%a;
 
 }
 
@@ -32,6 +32,6 @@ long long solution_2(int n) {
 
 
 int main() {
-	cout << solution(100) << endl;
-	cout << solution_2(100);
+	cout << solution(10000) << endl;
+	;
 }

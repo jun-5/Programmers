@@ -48,5 +48,8 @@
     <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\소수의 합.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="같은 숫자는 싫어.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

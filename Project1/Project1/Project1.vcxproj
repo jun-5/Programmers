@@ -124,6 +124,7 @@
     <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\모의고사.cpp" />
     <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\소수의 합.cpp" />
     <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\완주하지 못한 선수.cpp" />
+    <ClCompile Include="같은 숫자는 싫어.cpp" />
     <ClCompile Include="더해서 소수되는 경우의수 level2.cpp" />
     <ClCompile Include="연속된 자연수의 합 경우의수.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>

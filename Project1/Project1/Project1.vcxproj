@@ -118,17 +118,64 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\2016년.cpp" />
-    <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\K번째수.cpp" />
-    <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\가운데 글자 가져오기.cpp" />
-    <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\모의고사.cpp" />
-    <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\소수의 합.cpp" />
-    <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\완주하지 못한 선수.cpp" />
-    <ClCompile Include="같은 숫자는 싫어.cpp" />
-    <ClCompile Include="더해서 소수되는 경우의수 level2.cpp" />
+    <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\2016년.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\K번째수.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\가운데 글자 가져오기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\모의고사.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\소수의 합.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\git_cs\CS_Study\junho\프로그래머스\프로그래머스\Project1\Project1\완주하지 못한 선수.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="같은 숫자는 싫어.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="나누어 떨어지는 숫자 배열.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="더해서 소수되는 경우의수 level2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="두 정수 사이의 합.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="문자열 내 p와 y의 개수.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="문자열 내 마음대로 정렬하기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="문자열 내림차순으로 배치하기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="문자열 다루기 기본.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="문자열을 정수로 바꾸기cpp.cpp" />
+    <ClCompile Include="서울에서 김서방 찾기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="소수찾기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="수박수박수박수박수박수.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="시저 암호.cpp" />
+    <ClCompile Include="약수의 합.cpp" />
     <ClCompile Include="연속된 자연수의 합 경우의수.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="체육복.cpp" />
     <ClCompile Include="피보나치 배열.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

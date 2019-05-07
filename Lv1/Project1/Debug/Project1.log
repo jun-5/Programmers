@@ -1,0 +1,5 @@
+﻿  주식가격.cpp
+C:\Users\dkssk\Desktop\Programmers\Programmers\Project1\Project1\주식가격.cpp(12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dkssk\Desktop\Programmers\Programmers\Project1\Project1\주식가격.cpp(16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dkssk\Desktop\Programmers\Programmers\Project1\Project1\주식가격.cpp(25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project1.vcxproj -> C:\Users\dkssk\Desktop\Programmers\Programmers\Project1\Debug\Project1.exe

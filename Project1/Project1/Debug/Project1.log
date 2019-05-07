@@ -1,8 +1,0 @@
-﻿  체육복.cpp
-C:\Users\dkssk\Desktop\거위\Programmers\Project1\Project1\체육복.cpp(8): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\dkssk\Desktop\거위\Programmers\Project1\Project1\체육복.cpp(9): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\dkssk\Desktop\거위\Programmers\Project1\Project1\체육복.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\dkssk\Desktop\거위\Programmers\Project1\Project1\체육복.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\dkssk\Desktop\거위\Programmers\Project1\Project1\체육복.cpp(28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\dkssk\Desktop\거위\Programmers\Project1\Project1\체육복.cpp(34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  Project1.vcxproj -> C:\Users\dkssk\Desktop\거위\Programmers\Project1\Debug\Project1.exe
